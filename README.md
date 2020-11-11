@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hallihallo 👋
 Let me tell you a little bit about me
 
 ### Things I like to play around with
+
+| Languages               | Frameworks           | Tools            |
+| ----------------------- | -------------------- | -----------------|
+|||
+|||
 
 ### Some statistics about my account
 
