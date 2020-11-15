@@ -5,7 +5,7 @@ Let me tell you a little bit about me
 
 | Languages               | Frameworks           | Tools            |
 | ----------------------- | -------------------- | -----------------|
-| ![Java](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/java.png) ![JavaScript](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/javascript.png)| ![Vue](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/vue.png) ![Spring Boot](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/springboot.png) | ![IntelliJ](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/docker.png) ![Docker](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/intellij.png) ![Docker](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/docker.png) ![Visual Studio Code](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/vscode.png) |
+| ![Java](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/java.png) ![JavaScript](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/javascript.png)| ![Vue](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/vue.png) ![Spring Boot](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/springboot.png) | ![IntelliJ](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/intellj.png) ![Docker](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/intellij.png) ![Visual Studio Code](https://github.com/MasterEvarior/MasterEvarior/blob/main/icons/vscode.png) |
 
 ### Some statistics about my account
 
