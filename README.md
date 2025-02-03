@@ -1,10 +1,10 @@
-## Hallihallo 👋
+## 👋 Hallihallo
 
 Let me tell you a little bit about me, myself and I.
 
 I am a software engineer with a passion for OSS, Nix and everything-as-code. Currently I am pursuing a Bachelor's degree in Computer Science.
 
-## Skills and Tools 🚀
+## 🚀 Skills and Tools
 
 ### Programming Languages:
 
@@ -41,6 +41,6 @@ I am a software engineer with a passion for OSS, Nix and everything-as-code. Cur
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </div>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=MasterEvarior&show_icons=true)
