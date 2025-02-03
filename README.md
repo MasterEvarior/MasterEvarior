@@ -31,6 +31,7 @@ I am a software engineer with a passion for OSS, Nix and everything-as-code. Cur
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/k3s-FFC61C?style=flat&logo=kubernetes&logoColor=black"/>
   <img src="https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
 </div>
 
 ### DevOps & CI/CD:
