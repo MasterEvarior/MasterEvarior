@@ -1,0 +1,3 @@
+addedFiles=$(git diff --cached --name-only --diff-filter=d)
+treefmt
+git add $addedFiles

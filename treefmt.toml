@@ -1,0 +1,5 @@
+[formatter.mdformat]
+command = "mdformat"
+options = []
+excludes = []
+includes = ["*.md"]
