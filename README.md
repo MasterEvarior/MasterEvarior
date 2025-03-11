@@ -2,7 +2,7 @@
 
 Let me tell you a little bit about me, myself and I.
 
-I am a software engineer with a passion for OSS, Nix and everything-as-code. Currently I am pursuing a Bachelor's degree in Computer Science.
+I am a software engineer with a passion for FOSS, Nix and DevOps with a side of everything-as-code. Currently I am pursuing a Bachelor's degree in Computer Science.
 
 ## 🚀 Skills and Tools
 
