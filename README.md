@@ -2,7 +2,7 @@
 
 Let me tell you a little bit about me, myself and I.
 
-I am a software engineer with a passion for FOSS, Nix and DevOps with a side of everything-as-code. Currently I am pursuing a Bachelor's degree in Computer Science.
+I am a software engineer with a passion for OSS, Nix and DevOps with a side of everything-as-code. Currently I am pursuing a Bachelor's degree in Computer Science.
 
 ## 🚀 Skills and Tools
 
@@ -12,6 +12,7 @@ I am a software engineer with a passion for FOSS, Nix and DevOps with a side of 
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
 
 ### Web Development:
