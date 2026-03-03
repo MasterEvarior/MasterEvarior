@@ -42,7 +42,3 @@ I am a software engineer with a passion for OSS, Nix and DevOps with a side of e
   <img src="https://img.shields.io/badge/Flux%20CD-5468FF?style=flat&logo=flux&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </div>
-
-## 📊 GitHub Stats
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=MasterEvarior&show_icons=true)
